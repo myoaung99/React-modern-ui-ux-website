@@ -26,7 +26,9 @@ const Menu = () => {
 };
 
 const Navbar = () => {
+  // show mobile navbar meun state
   const [toggleMenu, setToggleMenu] = useState(false);
+
   return (
     <div className="gpt3__navbar">
       {/* Navlinks container */}

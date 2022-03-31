@@ -14,6 +14,8 @@ a {
   text-decoration: none;
 }
 
+/* Gradient background generated from cssgradient.io */
+
 .gradient__bg {
   /* ff 3.6+ */
   background: -moz-radial-gradient(
@@ -104,7 +106,7 @@ a {
   }
 
   .section__margin {
-    padding: 4rem;
+    margin: 4rem;
   }
 }
 
@@ -116,6 +118,6 @@ a {
   }
 
   .section__margin {
-    padding: 4rem 2rem;
+    margin: 4rem 2rem;
   }
 }

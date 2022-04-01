@@ -16,6 +16,8 @@
 /* Logo */
 .gpt3__navbar-links_logo {
   margin-right: 2rem;
+  display: flex;
+  align-items: center;
 }
 
 .gpt3__navbar-links_logo img {
